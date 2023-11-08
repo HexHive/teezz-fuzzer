@@ -5,7 +5,7 @@ This is the main repository for our work [TEEzz: Fuzzing Trusted Applications on
 TEEzz is a black-box fuzzer for trusted applications running on COTS Android mobile devices.
 
 We are still in the process of making TEEzz ready for use by other researchers and are planning to
-finish our work by the end of July 2023. Up until this date, we will successively add artifacts and documentation. 
+finish our work by the end of November 2023. Up until this date, we will successively add artifacts and documentation. 
 
 The source code of TEEzz is distributed across multiple repositories loosely reflecting the four phases of TEEzz's pipeline.
 
